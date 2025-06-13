@@ -2,15 +2,23 @@
 
 # AND101 Project 1 - Hello, Squirrel!
 
-Submitted by: **Your Name Here**
+Submitted by: **Sahrish Afzal**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Summary
 
-**and101-project1-starter** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  **Change or add to this description**
+**and101-project1-starter** is an Android app that recreates the classic "Hello, World!" experience with a fun twist — introducing ourselves to the neighborhood squirrel 🐿. **It’s a light-hearted way to learn the basics of Android development while sharing a bit about who we are, what we love, and how we spend our time.**
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **🌍🐿🎨**
+
+Explanation of emojis:
+
+🌍 – Representing "Hello, World!" and global connection
+
+🐿 – The neighborhood squirrel and friendly interaction
+
+🎨 – A nod to personal hobbies and creativity
 
 ## Application Features
 
